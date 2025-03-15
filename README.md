@@ -54,8 +54,8 @@ npm install
 
 3. 配置 API 密钥
    - 打开 `.env` 文件
-   - 将 `API_KEY=` 后面添加你的 API 密钥，如sk-*********
-   - `API_URL=` 后面添加服务商API端口，如https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions（阿里云）
+   - 将 `API_KEY=` 后面添加你的 API 密钥
+   - `API_URL=` 后面添加服务商API端口
 
 4. 启动应用
 ```bash
